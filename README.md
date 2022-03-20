@@ -58,22 +58,24 @@ myArray.unshift(0); // [0, 1, 2, 3, 4, 5]
 
 ## Functions
 
+`
 function addSub(addition, number1, number2) {
 
-if (addition) {
+    if (addition) {
 
-return number1 + number2;
+        return number1 + number2;
+
+    }
+
+    else {
+
+        return number1 - number2;
+
+    }
 
 }
 
-else {
-
-return number1 - number2;
-
-}
-
-}
-
+`
 let result = addSub(true, 1, 2) // 3
 
 ## Switch statments
