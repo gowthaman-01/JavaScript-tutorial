@@ -48,7 +48,6 @@ let result = addSub(true, 1, 2)                         // 3
 
 
 // Switch statments 
-/*
 switch (key) {
     case value:
         
@@ -57,7 +56,6 @@ switch (key) {
     default:
         break;
 }
-*/
 
 // Objects 
 let Person = {
@@ -72,7 +70,6 @@ Person.isMale = true;
 delete Person.isMale;
 
 // Do while loops
-/*
 do {
     
 } while (condition);
@@ -83,8 +80,6 @@ try {
 } catch (error) {
     
 }
-
-*/
 
 // Object freezing 
 
@@ -149,11 +144,11 @@ let Gowthaman = new Student("Gowthaman", 22, "Male")
 
 // Array methods
 
-// forEach()
-// map()
-// filter()
-// reduce()
-// some
-// every
-// find
-// findIndex
+forEach()
+map()
+filter()
+reduce()
+some()
+every()
+find()
+findIndex()
