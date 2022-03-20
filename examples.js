@@ -1,3 +1,5 @@
+// Experimenting with Javascript
+
 /* 
 This is a multiline comment 
 */
