@@ -1,6 +1,6 @@
 # JavaScript Tutorial
 
-The topics listed below are some of the basics of JavaScript, and the implementations can be seen in [a relative link](examples.js)
+The topics listed below are some of the basics of JavaScript, and the implementations can be seen in [examples.js](examples.js)
 
 ## Importing
 
