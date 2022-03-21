@@ -2,44 +2,44 @@
 
 The topics listed below are some of the basics of JavaScript, and the implementations can be seen in [examples.js](examples.js). Other features such as async and callback functions as well as promises are also explored.
 
-### Importing
+## Importing
 
-### Backticks
+## Backticks
 
-### Booleans
+## Booleans
 
-### String methods
+## String methods
 
-### Parse string to int
+## Parse string to int
 
-### Array Methods
+## Array Methods
 
-### Arrow functions
+## Arrow functions
 
-### Map and Filter using Arrow functions
+## Map and Filter using Arrow functions
 
-### Default parameters
+## Default parameters
 
-### Spread operator
+## Spread operator
 
-### Template literals
+## Template literals
 
-### Classes
+## Classes
 
-### Array methods
+## Array methods
 
-### forEach()
+## forEach()
 
-### map()
+## map()
 
-### filter()
+## filter()
 
-### reduce()
+## reduce()
 
-### some
+## some
 
-### every
+## every
 
-### find
+## find
 
-### findIndex
+## findIndex
